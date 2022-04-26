@@ -1,0 +1,27 @@
+body{
+    padding: 50px 100px;
+    background-image: url("2.jpg");
+}
+h1{
+    text-align: center;
+}
+#container{
+    text-align: center;
+    background-color:mediumaquamarine;
+    padding:50px;
+}
+.input1{
+    display: inline-block;
+}
+.in{
+    padding: 5px 10px;
+    margin:10px;
+    font-size: 30px;
+    font-weight: bold;
+    width: 250px;
+    text-align: center;
+}
+label{
+    font-size: 22px;
+    color:black;
+}
